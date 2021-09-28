@@ -12,5 +12,5 @@ This is my implementation of Logistic Regression, KNN and Decision Tree on the I
 <li>Exploratory Data Analysis</li>
 <li>Correlation Matrix</li>
 <li>Label Encoding</li>
-<li>Model Training with Logistic Regressino, KNN and Decision Tress</li>
+<li>Model Training with Logistic Regressino, KNN and Decision Trees</li>
 </ul>
