@@ -2,6 +2,8 @@
 
 This is my implementation of Logistic Regression, KNN and Decision Tree on the Iris dataset.
 
+The dataset and
+
 ## Tasks performed are:
 
 <ul>
