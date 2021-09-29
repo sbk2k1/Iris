@@ -2,7 +2,7 @@
 
 This is my implementation of Logistic Regression, KNN and Decision Tree on the Iris dataset.
 
-The dataset and
+The dataset and the competetion can 
 
 ## Tasks performed are:
 
